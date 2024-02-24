@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/development.webp
+  title : Our Mission - Solving the Drug Development Crisis
+  content : "The path to introducing new therapeutic solutions is fraught with obstacles, presenting the pharmaceutical industry with critical challenges that demand innovative solutions and strategic foresight."
+  feature_item : 
+      # feature item loop
+    - title : Exorbitant Costs
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Each new drug commands a staggering average €2.4B investment, inflating healthcare expenses and often sidetracks the creation of niche medicine.
+      
+      # feature item loop
+    - title : Abysmal Success Rate
+      icon : ti-stats-down # themify icon pack : https://themify.me/themify-icons
+      content : From early-stage drug discovery to Stage 1 clinical trials to Approval, only 8% of drugs successfully navigate the process.
+
+      # feature item loop
+    - title : The Neglected
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content :  Soaring development costs and risky investments deter R&D for rare diseases, impacting the healthcare of 36M EU citizens.
+      
+      # feature item loop
+    - title : Inefficient Drug Discovery Process
+      icon : ti-alarm-clock # themify icon pack : https://themify.me/themify-icons
+      content : The drug discovery process is notoriously slow, often taking over a decade to identify and validate a new drug candidate.

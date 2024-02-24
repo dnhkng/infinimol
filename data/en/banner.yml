@@ -1,0 +1,13 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/background.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Infinimol AI"
+  content : "Taking drug discovery to the next level with AI. Our platform designs novel
+molecules swiftly, harnessing proprietary data for groundbreaking pharmaceutical innovation."
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"
